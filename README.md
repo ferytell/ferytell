@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on some projetc (web development)
 - 📫 just DM me on Telegram @Ferytell 
-- 👅 go to my website ferytell.xyz
+- 👅 go to my **[website](https://ferytell.xyz)** 
 
 <!---
 ferytell/ferytell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
